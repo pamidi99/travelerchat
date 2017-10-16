@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\praka\Downloads\HomeWork9-PartA-4\HomeWork9-PartA\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="65b1e3ef8b551de69acdbd338edc272898b46f25">
+        <dex dex="C:\Users\praka\Downloads\HomeWork9-PartA-4\HomeWork9-PartA\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_7f349294e9a36475e3f82ba6ac46b205a166c212\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\praka\Downloads\HomeWork9-PartA-4\HomeWork9-PartA\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="C:\Users\praka\Downloads\HomeWork9-PartA-4\HomeWork9-PartA\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_2ea6dc17c8933de2ba11379159686ae199a47c0b\classes.dex" />
+    </item>
+
+</items>

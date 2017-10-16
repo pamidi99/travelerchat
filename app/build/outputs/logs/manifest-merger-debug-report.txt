@@ -1,0 +1,526 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\praka\Downloads\HomeWork9-PartA-4\HomeWork9-PartA\app\src\main\AndroidManifest.xml:2:1-46:12
+	package
+		ADDED from C:\Users\praka\Downloads\HomeWork9-PartA-4\HomeWork9-PartA\app\src\main\AndroidManifest.xml:3:5-42
+		INJECTED from C:\Users\praka\Downloads\HomeWork9-PartA-4\HomeWork9-PartA\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\praka\Downloads\HomeWork9-PartA-4\HomeWork9-PartA\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\praka\Downloads\HomeWork9-PartA-4\HomeWork9-PartA\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\praka\Downloads\HomeWork9-PartA-4\HomeWork9-PartA\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\praka\Downloads\HomeWork9-PartA-4\HomeWork9-PartA\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from C:\Users\praka\Downloads\HomeWork9-PartA-4\HomeWork9-PartA\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\praka\Downloads\HomeWork9-PartA-4\HomeWork9-PartA\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from C:\Users\praka\Downloads\HomeWork9-PartA-4\HomeWork9-PartA\app\src\main\AndroidManifest.xml:6:5-71
+	android:name
+		ADDED from C:\Users\praka\Downloads\HomeWork9-PartA-4\HomeWork9-PartA\app\src\main\AndroidManifest.xml:6:22-68
+uses-permission#android.permission.READ_PROFILE
+ADDED from C:\Users\praka\Downloads\HomeWork9-PartA-4\HomeWork9-PartA\app\src\main\AndroidManifest.xml:7:5-71
+	android:name
+		ADDED from C:\Users\praka\Downloads\HomeWork9-PartA-4\HomeWork9-PartA\app\src\main\AndroidManifest.xml:7:22-68
+uses-permission#android.permission.READ_CONTACTS
+ADDED from C:\Users\praka\Downloads\HomeWork9-PartA-4\HomeWork9-PartA\app\src\main\AndroidManifest.xml:8:5-72
+	android:name
+		ADDED from C:\Users\praka\Downloads\HomeWork9-PartA-4\HomeWork9-PartA\app\src\main\AndroidManifest.xml:8:22-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\praka\Downloads\HomeWork9-PartA-4\HomeWork9-PartA\app\src\main\AndroidManifest.xml:9:5-66
+MERGED from [com.google.android.gms:play-services-ads-lite:10.0.0] C:\Users\praka\.android\build-cache\73c772037a451bfd956be33d0504b3e97c18f94f\output\AndroidManifest.xml:19:5-66
+MERGED from [com.google.android.gms:play-services-analytics:10.0.0] C:\Users\praka\.android\build-cache\39db2c4b7545d0f1fc02e445423241f4f52ce224\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-appinvite:10.0.0] C:\Users\praka\.android\build-cache\aa81142bdd261ebe4a2e9a56b2b8451c1943ead7\output\AndroidManifest.xml:18:5-66
+MERGED from [com.google.firebase:firebase-crash:10.0.0] C:\Users\praka\.android\build-cache\3f9dc3966bcdbf68237ceeee50f5c5255660aca5\output\AndroidManifest.xml:18:5-66
+MERGED from [com.google.android.gms:play-services-gcm:10.0.0] C:\Users\praka\.android\build-cache\2a23433a066d55f25cb6b5ea71b3bb953f1fc54f\output\AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-iid:10.0.0] C:\Users\praka\.android\build-cache\de0f999bbee2388a870bc3907da9b8109d946ab4\output\AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-tagmanager-api:10.0.0] C:\Users\praka\.android\build-cache\2fc81af1fa91039de833dbff0f2f214874519ec6\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics:10.0.0] C:\Users\praka\.android\build-cache\3c448277951303badaa069550794b3d001c61b5e\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.0] C:\Users\praka\.android\build-cache\4916065ed2e674a3e1cdc9a2d3e474010cf1ac20\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-iid:10.0.0] C:\Users\praka\.android\build-cache\d36947e0b7239769c8cf93a68849d2bcef629542\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-analytics-impl:10.0.0] C:\Users\praka\.android\build-cache\606eadfa44a42a7231857630bdd22277775b9915\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-maps:10.0.0] C:\Users\praka\.android\build-cache\f0179effd7078b966a3f5e5655057e7b8cd8f3ea\output\AndroidManifest.xml:20:5-66
+	android:name
+		ADDED from C:\Users\praka\Downloads\HomeWork9-PartA-4\HomeWork9-PartA\app\src\main\AndroidManifest.xml:9:22-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\praka\Downloads\HomeWork9-PartA-4\HomeWork9-PartA\app\src\main\AndroidManifest.xml:10:5-80
+	android:name
+		ADDED from C:\Users\praka\Downloads\HomeWork9-PartA-4\HomeWork9-PartA\app\src\main\AndroidManifest.xml:10:22-78
+uses-permission#com.google.android.providers.gsf.permission.READ_GSERVICES
+ADDED from C:\Users\praka\Downloads\HomeWork9-PartA-4\HomeWork9-PartA\app\src\main\AndroidManifest.xml:11:5-97
+	android:name
+		ADDED from C:\Users\praka\Downloads\HomeWork9-PartA-4\HomeWork9-PartA\app\src\main\AndroidManifest.xml:11:22-95
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from C:\Users\praka\Downloads\HomeWork9-PartA-4\HomeWork9-PartA\app\src\main\AndroidManifest.xml:12:5-80
+	android:name
+		ADDED from C:\Users\praka\Downloads\HomeWork9-PartA-4\HomeWork9-PartA\app\src\main\AndroidManifest.xml:12:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\praka\Downloads\HomeWork9-PartA-4\HomeWork9-PartA\app\src\main\AndroidManifest.xml:13:5-78
+	android:name
+		ADDED from C:\Users\praka\Downloads\HomeWork9-PartA-4\HomeWork9-PartA\app\src\main\AndroidManifest.xml:13:22-76
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\praka\Downloads\HomeWork9-PartA-4\HomeWork9-PartA\app\src\main\AndroidManifest.xml:14:5-79
+MERGED from [com.google.android.gms:play-services-ads-lite:10.0.0] C:\Users\praka\.android\build-cache\73c772037a451bfd956be33d0504b3e97c18f94f\output\AndroidManifest.xml:20:5-78
+MERGED from [com.google.android.gms:play-services-analytics:10.0.0] C:\Users\praka\.android\build-cache\39db2c4b7545d0f1fc02e445423241f4f52ce224\output\AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-nearby:10.0.0] C:\Users\praka\.android\build-cache\8483d32aaedbcbf8332c5bf1a1b05e9357c9cb31\output\AndroidManifest.xml:4:5-78
+MERGED from [com.google.android.gms:play-services-tagmanager-api:10.0.0] C:\Users\praka\.android\build-cache\2fc81af1fa91039de833dbff0f2f214874519ec6\output\AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics:10.0.0] C:\Users\praka\.android\build-cache\3c448277951303badaa069550794b3d001c61b5e\output\AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.0] C:\Users\praka\.android\build-cache\4916065ed2e674a3e1cdc9a2d3e474010cf1ac20\output\AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-iid:10.0.0] C:\Users\praka\.android\build-cache\d36947e0b7239769c8cf93a68849d2bcef629542\output\AndroidManifest.xml:19:5-78
+MERGED from [com.google.android.gms:play-services-analytics-impl:10.0.0] C:\Users\praka\.android\build-cache\606eadfa44a42a7231857630bdd22277775b9915\output\AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-maps:10.0.0] C:\Users\praka\.android\build-cache\f0179effd7078b966a3f5e5655057e7b8cd8f3ea\output\AndroidManifest.xml:19:5-78
+	android:name
+		ADDED from C:\Users\praka\Downloads\HomeWork9-PartA-4\HomeWork9-PartA\app\src\main\AndroidManifest.xml:14:22-76
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from C:\Users\praka\Downloads\HomeWork9-PartA-4\HomeWork9-PartA\app\src\main\AndroidManifest.xml:15:5-75
+	android:name
+		ADDED from C:\Users\praka\Downloads\HomeWork9-PartA-4\HomeWork9-PartA\app\src\main\AndroidManifest.xml:15:22-72
+application
+ADDED from C:\Users\praka\Downloads\HomeWork9-PartA-4\HomeWork9-PartA\app\src\main\AndroidManifest.xml:17:5-44:19
+MERGED from [com.android.support:design:25.3.1] C:\Users\praka\.android\build-cache\10c5291a99c50ee3a32e2d1efd7b074c5fc629f0\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:transition:25.3.1] C:\Users\praka\.android\build-cache\a2b0cf6cea4173e6b3dc08384cc8f35f2e021276\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\praka\.android\build-cache\9a13f0ef1624a2455a85bf10a147c763cdbcc038\output\AndroidManifest.xml:9:5-20
+MERGED from [com.google.firebase:firebase-core:10.0.0] C:\Users\praka\.android\build-cache\fdae76ebb48b59fe39158e0e1adf36774fda602c\output\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services:10.0.0] C:\Users\praka\.android\build-cache\6e4b3ebbd672a564b9d6ddd98ba01df7cb0e1e65\output\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-ads-lite:10.0.0] C:\Users\praka\.android\build-cache\73c772037a451bfd956be33d0504b3e97c18f94f\output\AndroidManifest.xml:23:5-27:19
+MERGED from [com.google.android.gms:play-services-analytics:10.0.0] C:\Users\praka\.android\build-cache\39db2c4b7545d0f1fc02e445423241f4f52ce224\output\AndroidManifest.xml:26:5-19
+MERGED from [com.google.android.gms:play-services-appinvite:10.0.0] C:\Users\praka\.android\build-cache\aa81142bdd261ebe4a2e9a56b2b8451c1943ead7\output\AndroidManifest.xml:19:5-26:19
+MERGED from [com.google.android.gms:play-services-auth:10.0.0] C:\Users\praka\.android\build-cache\3f04c05f9af464f6d85b428362c1a3b6a3fd51eb\output\AndroidManifest.xml:19:5-25:19
+MERGED from [com.google.android.gms:play-services-cast-framework:10.0.0] C:\Users\praka\.android\build-cache\3d2c5fe9668a443c249690d4f306c17c0424ba07\output\AndroidManifest.xml:4:5-8:19
+MERGED from [com.google.android.gms:play-services-cast:10.0.0] C:\Users\praka\.android\build-cache\0b17a47596b5e796a0a46cf69e5cda6511a298d8\output\AndroidManifest.xml:18:5-19
+MERGED from [com.android.support:mediarouter-v7:24.0.0] C:\Users\praka\.android\build-cache\0619c3c4d2f5360f99707fdebe35152e4ab7756e\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:palette-v7:24.0.0] C:\Users\praka\.android\build-cache\c3bcdc7adc3332f474bdc899dabd0740321b1f0c\output\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\praka\.android\build-cache\fd4741189362241102acce7e12f831d65f89a7b6\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\praka\.android\build-cache\97e7084b341d38879e9af638e87f21c47e9661ee\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\praka\.android\build-cache\ae2e28d79026320253759f7cf1efc077b51dcc67\output\AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-clearcut:10.0.0] C:\Users\praka\.android\build-cache\d79e5ab5bfa5404e4b984d70fed7f88c1494135c\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.firebase:firebase-config:10.0.0] C:\Users\praka\.android\build-cache\bb5deb308ac1731edfbc76be7b947f684ac660cd\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-awareness:10.0.0] C:\Users\praka\.android\build-cache\78318204c4495d4982dc0a02e1879e5af716cd20\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.firebase:firebase-crash:10.0.0] C:\Users\praka\.android\build-cache\3f9dc3966bcdbf68237ceeee50f5c5255660aca5\output\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-auth:10.0.1] C:\Users\praka\.android\build-cache\5bdaafe4f58cc18a34fe1ab53ccdd2b8a96213a3\output\AndroidManifest.xml:19:5-20:19
+MERGED from [com.google.firebase:firebase-messaging:10.0.0] C:\Users\praka\.android\build-cache\1a55577a207de82caa69f24e652879653cdf8d5c\output\AndroidManifest.xml:19:5-29:19
+MERGED from [com.google.android.gms:play-services-fitness:10.0.0] C:\Users\praka\.android\build-cache\a8fbf74377a863c06bea56372d613be39fa8060b\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-games:10.0.0] C:\Users\praka\.android\build-cache\6ab498e554063c5dadf8f70fb23e7533be793501\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-drive:10.0.0] C:\Users\praka\.android\build-cache\e43d81834d2db1d3bf322d03b2e400dc21ff84fe\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-gass:10.0.0] C:\Users\praka\.android\build-cache\3ed8a09a545747692fb8134a71c7acea6c77aee7\output\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-gcm:10.0.0] C:\Users\praka\.android\build-cache\2a23433a066d55f25cb6b5ea71b3bb953f1fc54f\output\AndroidManifest.xml:23:5-19
+MERGED from [com.google.firebase:firebase-appindexing:10.0.0] C:\Users\praka\.android\build-cache\443233721b19574bb6e8d0d9bd189ca4ba44b54b\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-iid:10.0.0] C:\Users\praka\.android\build-cache\de0f999bbee2388a870bc3907da9b8109d946ab4\output\AndroidManifest.xml:23:5-19
+MERGED from [com.google.android.gms:play-services-location:10.0.0] C:\Users\praka\.android\build-cache\ff10d17ac33391c5cce1472ca4d06249c1bc19ac\output\AndroidManifest.xml:5:5-6:19
+MERGED from [com.google.android.gms:play-services-nearby:10.0.0] C:\Users\praka\.android\build-cache\8483d32aaedbcbf8332c5bf1a1b05e9357c9cb31\output\AndroidManifest.xml:5:5-19
+MERGED from [com.google.android.gms:play-services-panorama:10.0.0] C:\Users\praka\.android\build-cache\d981f85ff0de5c971f8c75a0e5b2141d0dcbcf5b\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-places:10.0.0] C:\Users\praka\.android\build-cache\3da02c3c8a701c0f81e4b1551d97ee5903a2c47f\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-plus:10.0.0] C:\Users\praka\.android\build-cache\25a9632cf2f226b16219849b4e475b94a8a8ede5\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-safetynet:10.0.0] C:\Users\praka\.android\build-cache\3885e723ccd48e1e58364635e7dc61b883902667\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-tagmanager-api:10.0.0] C:\Users\praka\.android\build-cache\2fc81af1fa91039de833dbff0f2f214874519ec6\output\AndroidManifest.xml:23:5-33:19
+MERGED from [com.google.firebase:firebase-analytics:10.0.0] C:\Users\praka\.android\build-cache\3c448277951303badaa069550794b3d001c61b5e\output\AndroidManifest.xml:24:5-33:19
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.0] C:\Users\praka\.android\build-cache\4916065ed2e674a3e1cdc9a2d3e474010cf1ac20\output\AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.firebase:firebase-iid:10.0.0] C:\Users\praka\.android\build-cache\d36947e0b7239769c8cf93a68849d2bcef629542\output\AndroidManifest.xml:28:5-50:19
+MERGED from [com.google.firebase:firebase-common:10.0.1] C:\Users\praka\.android\build-cache\314239a571ad73421d05e9c64a55ccbf98a32cab\output\AndroidManifest.xml:4:5-7:19
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:10.0.0] C:\Users\praka\.android\build-cache\46d0acc1fc937b2d2b6a94c13a905a06acd996a4\output\AndroidManifest.xml:19:5-19
+MERGED from [com.google.android.gms:play-services-analytics-impl:10.0.0] C:\Users\praka\.android\build-cache\606eadfa44a42a7231857630bdd22277775b9915\output\AndroidManifest.xml:26:5-19
+MERGED from [com.google.android.gms:play-services-vision:10.0.0] C:\Users\praka\.android\build-cache\833b33887853108d1b12fc9e948960eb525d827e\output\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-identity:10.0.0] C:\Users\praka\.android\build-cache\8baefda7dbbe10911e86c54374ffb57008dd375c\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-maps:10.0.0] C:\Users\praka\.android\build-cache\f0179effd7078b966a3f5e5655057e7b8cd8f3ea\output\AndroidManifest.xml:24:5-19
+MERGED from [com.google.android.gms:play-services-wearable:10.0.0] C:\Users\praka\.android\build-cache\4ca57bdf3a5f29e95809c7bbe68544fa557bcddc\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-base:10.0.1] C:\Users\praka\.android\build-cache\f6bbc176746ef0331f3b98da8426f68626c358e7\output\AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-tasks:10.0.1] C:\Users\praka\.android\build-cache\4a922472ed9c079ee810ff3f7193645c5e25ec08\output\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:10.0.1] C:\Users\praka\.android\build-cache\da1817f4b523e8f47aeb33c409c2686cf3b94137\output\AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\praka\.android\build-cache\0ac95a10c3d1b0b8eb278bdb19573220764bb84c\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\praka\.android\build-cache\a28328689a3bd55ca7d532f482a417fc96d0cce7\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\praka\.android\build-cache\e0a408b2bfbffed6674295bcafa9c4e1c90bd02b\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\praka\.android\build-cache\a7984f1d132b4351b1f06e94fe80f7cec0387c9f\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\praka\.android\build-cache\a3d62d92648af402369185d102cedbf68e2c0caa\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\praka\.android\build-cache\972de813aede651bdac282cea2a503706a6fec37\output\AndroidManifest.xml:29:5-20
+MERGED from [com.google.maps.android:android-maps-utils:0.4.4] C:\Users\praka\.android\build-cache\a6574fca51b38f8be9eae2ac0b16966fa0b2b521\output\AndroidManifest.xml:7:5-11:19
+	android:label
+		ADDED from C:\Users\praka\Downloads\HomeWork9-PartA-4\HomeWork9-PartA\app\src\main\AndroidManifest.xml:20:9-41
+	android:supportsRtl
+		ADDED from C:\Users\praka\Downloads\HomeWork9-PartA-4\HomeWork9-PartA\app\src\main\AndroidManifest.xml:22:9-35
+	android:roundIcon
+		ADDED from C:\Users\praka\Downloads\HomeWork9-PartA-4\HomeWork9-PartA\app\src\main\AndroidManifest.xml:21:9-54
+	android:allowBackup
+		ADDED from C:\Users\praka\Downloads\HomeWork9-PartA-4\HomeWork9-PartA\app\src\main\AndroidManifest.xml:18:9-35
+	android:icon
+		ADDED from C:\Users\praka\Downloads\HomeWork9-PartA-4\HomeWork9-PartA\app\src\main\AndroidManifest.xml:19:9-43
+	android:theme
+		ADDED from C:\Users\praka\Downloads\HomeWork9-PartA-4\HomeWork9-PartA\app\src\main\AndroidManifest.xml:23:9-40
+activity#com.example.homework9_parta.MainActivity
+ADDED from C:\Users\praka\Downloads\HomeWork9-PartA-4\HomeWork9-PartA\app\src\main\AndroidManifest.xml:24:9-30:20
+	android:name
+		ADDED from C:\Users\praka\Downloads\HomeWork9-PartA-4\HomeWork9-PartA\app\src\main\AndroidManifest.xml:24:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\praka\Downloads\HomeWork9-PartA-4\HomeWork9-PartA\app\src\main\AndroidManifest.xml:25:13-29:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\praka\Downloads\HomeWork9-PartA-4\HomeWork9-PartA\app\src\main\AndroidManifest.xml:26:17-69
+	android:name
+		ADDED from C:\Users\praka\Downloads\HomeWork9-PartA-4\HomeWork9-PartA\app\src\main\AndroidManifest.xml:26:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\praka\Downloads\HomeWork9-PartA-4\HomeWork9-PartA\app\src\main\AndroidManifest.xml:28:17-77
+	android:name
+		ADDED from C:\Users\praka\Downloads\HomeWork9-PartA-4\HomeWork9-PartA\app\src\main\AndroidManifest.xml:28:27-74
+meta-data#com.google.android.geo.API_KEY
+ADDED from C:\Users\praka\Downloads\HomeWork9-PartA-4\HomeWork9-PartA\app\src\main\AndroidManifest.xml:32:9-34:71
+	android:value
+		ADDED from C:\Users\praka\Downloads\HomeWork9-PartA-4\HomeWork9-PartA\app\src\main\AndroidManifest.xml:34:13-68
+	android:name
+		ADDED from C:\Users\praka\Downloads\HomeWork9-PartA-4\HomeWork9-PartA\app\src\main\AndroidManifest.xml:33:13-58
+activity#com.example.homework9_parta.SignUp
+ADDED from C:\Users\praka\Downloads\HomeWork9-PartA-4\HomeWork9-PartA\app\src\main\AndroidManifest.xml:36:9-44
+	android:name
+		ADDED from C:\Users\praka\Downloads\HomeWork9-PartA-4\HomeWork9-PartA\app\src\main\AndroidManifest.xml:36:19-41
+activity#com.example.homework9_parta.HomeScreen
+ADDED from C:\Users\praka\Downloads\HomeWork9-PartA-4\HomeWork9-PartA\app\src\main\AndroidManifest.xml:37:9-48
+	android:name
+		ADDED from C:\Users\praka\Downloads\HomeWork9-PartA-4\HomeWork9-PartA\app\src\main\AndroidManifest.xml:37:19-45
+activity#com.example.homework9_parta.Settings
+ADDED from C:\Users\praka\Downloads\HomeWork9-PartA-4\HomeWork9-PartA\app\src\main\AndroidManifest.xml:38:9-46
+	android:name
+		ADDED from C:\Users\praka\Downloads\HomeWork9-PartA-4\HomeWork9-PartA\app\src\main\AndroidManifest.xml:38:19-43
+activity#com.example.homework9_parta.TripsActivity
+ADDED from C:\Users\praka\Downloads\HomeWork9-PartA-4\HomeWork9-PartA\app\src\main\AndroidManifest.xml:39:9-51
+	android:name
+		ADDED from C:\Users\praka\Downloads\HomeWork9-PartA-4\HomeWork9-PartA\app\src\main\AndroidManifest.xml:39:19-48
+activity#com.example.homework9_parta.DiscoverPpl
+ADDED from C:\Users\praka\Downloads\HomeWork9-PartA-4\HomeWork9-PartA\app\src\main\AndroidManifest.xml:40:9-49
+	android:name
+		ADDED from C:\Users\praka\Downloads\HomeWork9-PartA-4\HomeWork9-PartA\app\src\main\AndroidManifest.xml:40:19-46
+activity#com.example.homework9_parta.AddTripActivity
+ADDED from C:\Users\praka\Downloads\HomeWork9-PartA-4\HomeWork9-PartA\app\src\main\AndroidManifest.xml:41:9-53
+	android:name
+		ADDED from C:\Users\praka\Downloads\HomeWork9-PartA-4\HomeWork9-PartA\app\src\main\AndroidManifest.xml:41:19-50
+activity#com.example.homework9_parta.ChatScreen
+ADDED from C:\Users\praka\Downloads\HomeWork9-PartA-4\HomeWork9-PartA\app\src\main\AndroidManifest.xml:42:9-48
+	android:name
+		ADDED from C:\Users\praka\Downloads\HomeWork9-PartA-4\HomeWork9-PartA\app\src\main\AndroidManifest.xml:42:19-45
+activity#com.example.homework9_parta.DisplayTrip
+ADDED from C:\Users\praka\Downloads\HomeWork9-PartA-4\HomeWork9-PartA\app\src\main\AndroidManifest.xml:43:9-58
+	android:name
+		ADDED from C:\Users\praka\Downloads\HomeWork9-PartA-4\HomeWork9-PartA\app\src\main\AndroidManifest.xml:43:19-46
+uses-sdk
+INJECTED from C:\Users\praka\Downloads\HomeWork9-PartA-4\HomeWork9-PartA\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:design:25.3.1] C:\Users\praka\.android\build-cache\10c5291a99c50ee3a32e2d1efd7b074c5fc629f0\output\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\praka\.android\build-cache\d1edcbaaf4fed50d4cb665e6f1f69c1b0318b531\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.3.1] C:\Users\praka\.android\build-cache\a2b0cf6cea4173e6b3dc08384cc8f35f2e021276\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\praka\.android\build-cache\9a13f0ef1624a2455a85bf10a147c763cdbcc038\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-core:10.0.0] C:\Users\praka\.android\build-cache\fdae76ebb48b59fe39158e0e1adf36774fda602c\output\AndroidManifest.xml:4:5-42
+MERGED from [com.firebaseui:firebase-ui-storage:0.6.0] C:\Users\praka\.android\build-cache\e7543b1e3182253a9256f38063de954e1104a66d\output\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.gms:play-services:10.0.0] C:\Users\praka\.android\build-cache\6e4b3ebbd672a564b9d6ddd98ba01df7cb0e1e65\output\AndroidManifest.xml:4:5-42
+MERGED from [com.google.android.gms:play-services-ads:10.0.0] C:\Users\praka\.android\build-cache\38b1556bb430577e11d317e16ab0f484a4c0a94a\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-ads-lite:10.0.0] C:\Users\praka\.android\build-cache\73c772037a451bfd956be33d0504b3e97c18f94f\output\AndroidManifest.xml:22:5-42
+MERGED from [com.google.android.gms:play-services-analytics:10.0.0] C:\Users\praka\.android\build-cache\39db2c4b7545d0f1fc02e445423241f4f52ce224\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-appinvite:10.0.0] C:\Users\praka\.android\build-cache\aa81142bdd261ebe4a2e9a56b2b8451c1943ead7\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-auth:10.0.0] C:\Users\praka\.android\build-cache\3f04c05f9af464f6d85b428362c1a3b6a3fd51eb\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-auth-base:10.0.0] C:\Users\praka\.android\build-cache\9bacc6d348fa94aa74e1f51224d6ba80c1dca3fe\output\AndroidManifest.xml:4:5-42
+MERGED from [com.google.android.gms:play-services-cast-framework:10.0.0] C:\Users\praka\.android\build-cache\3d2c5fe9668a443c249690d4f306c17c0424ba07\output\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-cast:10.0.0] C:\Users\praka\.android\build-cache\0b17a47596b5e796a0a46cf69e5cda6511a298d8\output\AndroidManifest.xml:17:5-42
+MERGED from [com.android.support:mediarouter-v7:24.0.0] C:\Users\praka\.android\build-cache\0619c3c4d2f5360f99707fdebe35152e4ab7756e\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:palette-v7:24.0.0] C:\Users\praka\.android\build-cache\c3bcdc7adc3332f474bdc899dabd0740321b1f0c\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\praka\.android\build-cache\fd4741189362241102acce7e12f831d65f89a7b6\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\praka\.android\build-cache\97e7084b341d38879e9af638e87f21c47e9661ee\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\praka\.android\build-cache\ae2e28d79026320253759f7cf1efc077b51dcc67\output\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-clearcut:10.0.0] C:\Users\praka\.android\build-cache\d79e5ab5bfa5404e4b984d70fed7f88c1494135c\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-config:10.0.0] C:\Users\praka\.android\build-cache\bb5deb308ac1731edfbc76be7b947f684ac660cd\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-awareness:10.0.0] C:\Users\praka\.android\build-cache\78318204c4495d4982dc0a02e1879e5af716cd20\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-crash:10.0.0] C:\Users\praka\.android\build-cache\3f9dc3966bcdbf68237ceeee50f5c5255660aca5\output\AndroidManifest.xml:20:5-42
+MERGED from [com.google.firebase:firebase-auth:10.0.1] C:\Users\praka\.android\build-cache\5bdaafe4f58cc18a34fe1ab53ccdd2b8a96213a3\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-database:10.0.1] C:\Users\praka\.android\build-cache\b33578a28f7f29df9e9174f12aab15ef9a76090c\output\AndroidManifest.xml:3:5-42
+MERGED from [com.google.firebase:firebase-database-connection:10.0.1] C:\Users\praka\.android\build-cache\70311b871c21094ca6d77b585bf7e7cbbd8a1ec1\output\AndroidManifest.xml:3:5-42
+MERGED from [com.google.firebase:firebase-messaging:10.0.0] C:\Users\praka\.android\build-cache\1a55577a207de82caa69f24e652879653cdf8d5c\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-storage:10.0.0] C:\Users\praka\.android\build-cache\972707892dad4a4ad8b0884378a9dfec18c5c139\output\AndroidManifest.xml:3:5-42
+MERGED from [com.google.firebase:firebase-storage-common:10.0.0] C:\Users\praka\.android\build-cache\dbcdfc28d341cc59358a831b8cc8c86f79224bec\output\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-fitness:10.0.0] C:\Users\praka\.android\build-cache\a8fbf74377a863c06bea56372d613be39fa8060b\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-games:10.0.0] C:\Users\praka\.android\build-cache\6ab498e554063c5dadf8f70fb23e7533be793501\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-drive:10.0.0] C:\Users\praka\.android\build-cache\e43d81834d2db1d3bf322d03b2e400dc21ff84fe\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-gass:10.0.0] C:\Users\praka\.android\build-cache\3ed8a09a545747692fb8134a71c7acea6c77aee7\output\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-gcm:10.0.0] C:\Users\praka\.android\build-cache\2a23433a066d55f25cb6b5ea71b3bb953f1fc54f\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-appindexing:10.0.0] C:\Users\praka\.android\build-cache\443233721b19574bb6e8d0d9bd189ca4ba44b54b\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-iid:10.0.0] C:\Users\praka\.android\build-cache\de0f999bbee2388a870bc3907da9b8109d946ab4\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-instantapps:10.0.0] C:\Users\praka\.android\build-cache\9277d0bd3737407465a665e70152c9d3502ce9b1\output\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-nearby:10.0.0] C:\Users\praka\.android\build-cache\8483d32aaedbcbf8332c5bf1a1b05e9357c9cb31\output\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-panorama:10.0.0] C:\Users\praka\.android\build-cache\d981f85ff0de5c971f8c75a0e5b2141d0dcbcf5b\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-places:10.0.0] C:\Users\praka\.android\build-cache\3da02c3c8a701c0f81e4b1551d97ee5903a2c47f\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-plus:10.0.0] C:\Users\praka\.android\build-cache\25a9632cf2f226b16219849b4e475b94a8a8ede5\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-safetynet:10.0.0] C:\Users\praka\.android\build-cache\3885e723ccd48e1e58364635e7dc61b883902667\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-tagmanager:10.0.0] C:\Users\praka\.android\build-cache\41b2ebe3da6b43432a701b0f1631f10db7853d73\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-tagmanager-api:10.0.0] C:\Users\praka\.android\build-cache\2fc81af1fa91039de833dbff0f2f214874519ec6\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-analytics:10.0.0] C:\Users\praka\.android\build-cache\3c448277951303badaa069550794b3d001c61b5e\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.0] C:\Users\praka\.android\build-cache\4916065ed2e674a3e1cdc9a2d3e474010cf1ac20\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-iid:10.0.0] C:\Users\praka\.android\build-cache\d36947e0b7239769c8cf93a68849d2bcef629542\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-common:10.0.1] C:\Users\praka\.android\build-cache\314239a571ad73421d05e9c64a55ccbf98a32cab\output\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:10.0.0] C:\Users\praka\.android\build-cache\46d0acc1fc937b2d2b6a94c13a905a06acd996a4\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-analytics-impl:10.0.0] C:\Users\praka\.android\build-cache\606eadfa44a42a7231857630bdd22277775b9915\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-vision:10.0.0] C:\Users\praka\.android\build-cache\833b33887853108d1b12fc9e948960eb525d827e\output\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-wallet:10.0.0] C:\Users\praka\.android\build-cache\1c48a633208f4c3ad970c2ce633521fdd26b02e1\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-identity:10.0.0] C:\Users\praka\.android\build-cache\8baefda7dbbe10911e86c54374ffb57008dd375c\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-maps:10.0.0] C:\Users\praka\.android\build-cache\f0179effd7078b966a3f5e5655057e7b8cd8f3ea\output\AndroidManifest.xml:23:5-42
+MERGED from [com.google.android.gms:play-services-wearable:10.0.0] C:\Users\praka\.android\build-cache\4ca57bdf3a5f29e95809c7bbe68544fa557bcddc\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-base:10.0.1] C:\Users\praka\.android\build-cache\f6bbc176746ef0331f3b98da8426f68626c358e7\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-tasks:10.0.1] C:\Users\praka\.android\build-cache\4a922472ed9c079ee810ff3f7193645c5e25ec08\output\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-basement:10.0.1] C:\Users\praka\.android\build-cache\da1817f4b523e8f47aeb33c409c2686cf3b94137\output\AndroidManifest.xml:17:5-42
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\praka\.android\build-cache\0ac95a10c3d1b0b8eb278bdb19573220764bb84c\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\praka\.android\build-cache\a28328689a3bd55ca7d532f482a417fc96d0cce7\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\praka\.android\build-cache\e0a408b2bfbffed6674295bcafa9c4e1c90bd02b\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\praka\.android\build-cache\a7984f1d132b4351b1f06e94fe80f7cec0387c9f\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\praka\.android\build-cache\a3d62d92648af402369185d102cedbf68e2c0caa\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\praka\.android\build-cache\972de813aede651bdac282cea2a503706a6fec37\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.google.maps.android:android-maps-utils:0.4.4] C:\Users\praka\.android\build-cache\a6574fca51b38f8be9eae2ac0b16966fa0b2b521\output\AndroidManifest.xml:5:5-43
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.3.1] C:\Users\praka\.android\build-cache\10c5291a99c50ee3a32e2d1efd7b074c5fc629f0\output\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from C:\Users\praka\Downloads\HomeWork9-PartA-4\HomeWork9-PartA\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\praka\Downloads\HomeWork9-PartA-4\HomeWork9-PartA\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\praka\Downloads\HomeWork9-PartA-4\HomeWork9-PartA\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\praka\Downloads\HomeWork9-PartA-4\HomeWork9-PartA\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:25.3.1] C:\Users\praka\.android\build-cache\10c5291a99c50ee3a32e2d1efd7b074c5fc629f0\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\praka\.android\build-cache\d1edcbaaf4fed50d4cb665e6f1f69c1b0318b531\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.1] C:\Users\praka\.android\build-cache\a2b0cf6cea4173e6b3dc08384cc8f35f2e021276\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\praka\.android\build-cache\fd4741189362241102acce7e12f831d65f89a7b6\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\praka\.android\build-cache\97e7084b341d38879e9af638e87f21c47e9661ee\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\praka\.android\build-cache\ae2e28d79026320253759f7cf1efc077b51dcc67\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\praka\.android\build-cache\0ac95a10c3d1b0b8eb278bdb19573220764bb84c\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\praka\.android\build-cache\a28328689a3bd55ca7d532f482a417fc96d0cce7\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\praka\.android\build-cache\e0a408b2bfbffed6674295bcafa9c4e1c90bd02b\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\praka\.android\build-cache\a7984f1d132b4351b1f06e94fe80f7cec0387c9f\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\praka\.android\build-cache\a3d62d92648af402369185d102cedbf68e2c0caa\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\praka\.android\build-cache\972de813aede651bdac282cea2a503706a6fec37\output\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:design:25.3.1] C:\Users\praka\.android\build-cache\10c5291a99c50ee3a32e2d1efd7b074c5fc629f0\output\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:design:25.3.1] C:\Users\praka\.android\build-cache\10c5291a99c50ee3a32e2d1efd7b074c5fc629f0\output\AndroidManifest.xml:26:9-47
+activity#com.google.android.gms.ads.AdActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:10.0.0] C:\Users\praka\.android\build-cache\73c772037a451bfd956be33d0504b3e97c18f94f\output\AndroidManifest.xml:25:9-232
+	android:configChanges
+		ADDED from [com.google.android.gms:play-services-ads-lite:10.0.0] C:\Users\praka\.android\build-cache\73c772037a451bfd956be33d0504b3e97c18f94f\output\AndroidManifest.xml:25:72-181
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:10.0.0] C:\Users\praka\.android\build-cache\73c772037a451bfd956be33d0504b3e97c18f94f\output\AndroidManifest.xml:25:182-230
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:10.0.0] C:\Users\praka\.android\build-cache\73c772037a451bfd956be33d0504b3e97c18f94f\output\AndroidManifest.xml:25:19-71
+activity#com.google.android.gms.ads.purchase.InAppPurchaseActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:10.0.0] C:\Users\praka\.android\build-cache\73c772037a451bfd956be33d0504b3e97c18f94f\output\AndroidManifest.xml:26:9-131
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:10.0.0] C:\Users\praka\.android\build-cache\73c772037a451bfd956be33d0504b3e97c18f94f\output\AndroidManifest.xml:26:92-129
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:10.0.0] C:\Users\praka\.android\build-cache\73c772037a451bfd956be33d0504b3e97c18f94f\output\AndroidManifest.xml:26:19-91
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.android.gms:play-services-analytics:10.0.0] C:\Users\praka\.android\build-cache\39db2c4b7545d0f1fc02e445423241f4f52ce224\output\AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-analytics:10.0.0] C:\Users\praka\.android\build-cache\3c448277951303badaa069550794b3d001c61b5e\output\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.0] C:\Users\praka\.android\build-cache\4916065ed2e674a3e1cdc9a2d3e474010cf1ac20\output\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-iid:10.0.0] C:\Users\praka\.android\build-cache\d36947e0b7239769c8cf93a68849d2bcef629542\output\AndroidManifest.xml:21:5-67
+MERGED from [com.google.android.gms:play-services-analytics-impl:10.0.0] C:\Users\praka\.android\build-cache\606eadfa44a42a7231857630bdd22277775b9915\output\AndroidManifest.xml:24:5-67
+	android:name
+		ADDED from [com.google.android.gms:play-services-analytics:10.0.0] C:\Users\praka\.android\build-cache\39db2c4b7545d0f1fc02e445423241f4f52ce224\output\AndroidManifest.xml:24:22-65
+activity#com.google.android.gms.appinvite.PreviewActivity
+ADDED from [com.google.android.gms:play-services-appinvite:10.0.0] C:\Users\praka\.android\build-cache\aa81142bdd261ebe4a2e9a56b2b8451c1943ead7\output\AndroidManifest.xml:20:9-25:20
+	android:exported
+		ADDED from [com.google.android.gms:play-services-appinvite:10.0.0] C:\Users\praka\.android\build-cache\aa81142bdd261ebe4a2e9a56b2b8451c1943ead7\output\AndroidManifest.xml:20:51-74
+	android:theme
+		ADDED from [com.google.android.gms:play-services-appinvite:10.0.0] C:\Users\praka\.android\build-cache\aa81142bdd261ebe4a2e9a56b2b8451c1943ead7\output\AndroidManifest.xml:20:75-121
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:10.0.0] C:\Users\praka\.android\build-cache\aa81142bdd261ebe4a2e9a56b2b8451c1943ead7\output\AndroidManifest.xml:20:19-50
+intent-filter#android.intent.category.DEFAULT+com.google.android.gms.appinvite.ACTION_PREVIEW
+ADDED from [com.google.android.gms:play-services-appinvite:10.0.0] C:\Users\praka\.android\build-cache\aa81142bdd261ebe4a2e9a56b2b8451c1943ead7\output\AndroidManifest.xml:21:13-24:29
+action#com.google.android.gms.appinvite.ACTION_PREVIEW
+ADDED from [com.google.android.gms:play-services-appinvite:10.0.0] C:\Users\praka\.android\build-cache\aa81142bdd261ebe4a2e9a56b2b8451c1943ead7\output\AndroidManifest.xml:22:17-89
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:10.0.0] C:\Users\praka\.android\build-cache\aa81142bdd261ebe4a2e9a56b2b8451c1943ead7\output\AndroidManifest.xml:22:25-87
+category#android.intent.category.DEFAULT
+ADDED from [com.google.android.gms:play-services-appinvite:10.0.0] C:\Users\praka\.android\build-cache\aa81142bdd261ebe4a2e9a56b2b8451c1943ead7\output\AndroidManifest.xml:23:17-75
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:10.0.0] C:\Users\praka\.android\build-cache\aa81142bdd261ebe4a2e9a56b2b8451c1943ead7\output\AndroidManifest.xml:23:27-73
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:10.0.0] C:\Users\praka\.android\build-cache\3f04c05f9af464f6d85b428362c1a3b6a3fd51eb\output\AndroidManifest.xml:20:9-189
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:10.0.0] C:\Users\praka\.android\build-cache\3f04c05f9af464f6d85b428362c1a3b6a3fd51eb\output\AndroidManifest.xml:20:129-162
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:10.0.0] C:\Users\praka\.android\build-cache\3f04c05f9af464f6d85b428362c1a3b6a3fd51eb\output\AndroidManifest.xml:20:163-187
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:10.0.0] C:\Users\praka\.android\build-cache\3f04c05f9af464f6d85b428362c1a3b6a3fd51eb\output\AndroidManifest.xml:20:69-128
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:10.0.0] C:\Users\praka\.android\build-cache\3f04c05f9af464f6d85b428362c1a3b6a3fd51eb\output\AndroidManifest.xml:20:19-68
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:10.0.0] C:\Users\praka\.android\build-cache\3f04c05f9af464f6d85b428362c1a3b6a3fd51eb\output\AndroidManifest.xml:24:9-184
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:10.0.0] C:\Users\praka\.android\build-cache\3f04c05f9af464f6d85b428362c1a3b6a3fd51eb\output\AndroidManifest.xml:24:64-87
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:10.0.0] C:\Users\praka\.android\build-cache\3f04c05f9af464f6d85b428362c1a3b6a3fd51eb\output\AndroidManifest.xml:24:88-182
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:10.0.0] C:\Users\praka\.android\build-cache\3f04c05f9af464f6d85b428362c1a3b6a3fd51eb\output\AndroidManifest.xml:24:18-63
+receiver#com.google.android.gms.cast.framework.media.MediaIntentReceiver
+ADDED from [com.google.android.gms:play-services-cast-framework:10.0.0] C:\Users\praka\.android\build-cache\3d2c5fe9668a443c249690d4f306c17c0424ba07\output\AndroidManifest.xml:5:9-99
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:10.0.0] C:\Users\praka\.android\build-cache\3d2c5fe9668a443c249690d4f306c17c0424ba07\output\AndroidManifest.xml:5:19-97
+service#com.google.android.gms.cast.framework.media.MediaNotificationService
+ADDED from [com.google.android.gms:play-services-cast-framework:10.0.0] C:\Users\praka\.android\build-cache\3d2c5fe9668a443c249690d4f306c17c0424ba07\output\AndroidManifest.xml:6:9-103
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:10.0.0] C:\Users\praka\.android\build-cache\3d2c5fe9668a443c249690d4f306c17c0424ba07\output\AndroidManifest.xml:6:18-101
+service#com.google.android.gms.cast.framework.ReconnectionService
+ADDED from [com.google.android.gms:play-services-cast-framework:10.0.0] C:\Users\praka\.android\build-cache\3d2c5fe9668a443c249690d4f306c17c0424ba07\output\AndroidManifest.xml:7:9-92
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:10.0.0] C:\Users\praka\.android\build-cache\3d2c5fe9668a443c249690d4f306c17c0424ba07\output\AndroidManifest.xml:7:18-90
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:10.0.0] C:\Users\praka\.android\build-cache\1a55577a207de82caa69f24e652879653cdf8d5c\output\AndroidManifest.xml:23:9-27:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:10.0.0] C:\Users\praka\.android\build-cache\1a55577a207de82caa69f24e652879653cdf8d5c\output\AndroidManifest.xml:23:88-111
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:10.0.0] C:\Users\praka\.android\build-cache\1a55577a207de82caa69f24e652879653cdf8d5c\output\AndroidManifest.xml:23:18-87
+intent-filter#com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:10.0.0] C:\Users\praka\.android\build-cache\1a55577a207de82caa69f24e652879653cdf8d5c\output\AndroidManifest.xml:24:13-26:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-messaging:10.0.0] C:\Users\praka\.android\build-cache\1a55577a207de82caa69f24e652879653cdf8d5c\output\AndroidManifest.xml:24:28-51
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:10.0.0] C:\Users\praka\.android\build-cache\1a55577a207de82caa69f24e652879653cdf8d5c\output\AndroidManifest.xml:25:17-77
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:10.0.0] C:\Users\praka\.android\build-cache\1a55577a207de82caa69f24e652879653cdf8d5c\output\AndroidManifest.xml:25:25-75
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.android.gms:play-services-gcm:10.0.0] C:\Users\praka\.android\build-cache\2a23433a066d55f25cb6b5ea71b3bb953f1fc54f\output\AndroidManifest.xml:20:5-81
+MERGED from [com.google.android.gms:play-services-iid:10.0.0] C:\Users\praka\.android\build-cache\de0f999bbee2388a870bc3907da9b8109d946ab4\output\AndroidManifest.xml:20:5-81
+MERGED from [com.google.firebase:firebase-iid:10.0.0] C:\Users\praka\.android\build-cache\d36947e0b7239769c8cf93a68849d2bcef629542\output\AndroidManifest.xml:22:5-81
+	android:name
+		ADDED from [com.google.android.gms:play-services-gcm:10.0.0] C:\Users\praka\.android\build-cache\2a23433a066d55f25cb6b5ea71b3bb953f1fc54f\output\AndroidManifest.xml:20:22-79
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from C:\Users\praka\Downloads\HomeWork9-PartA-4\HomeWork9-PartA\app\src\main\AndroidManifest.xml:2:1-46:12 reason: com.google.android.gms.location requested WRITE_EXTERNAL_STORAGE
+service#com.google.android.gms.tagmanager.TagManagerService
+ADDED from [com.google.android.gms:play-services-tagmanager-api:10.0.0] C:\Users\praka\.android\build-cache\2fc81af1fa91039de833dbff0f2f214874519ec6\output\AndroidManifest.xml:24:9-134
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.0.0] C:\Users\praka\.android\build-cache\2fc81af1fa91039de833dbff0f2f214874519ec6\output\AndroidManifest.xml:24:110-132
+	android:exported
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.0.0] C:\Users\praka\.android\build-cache\2fc81af1fa91039de833dbff0f2f214874519ec6\output\AndroidManifest.xml:24:85-109
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.0.0] C:\Users\praka\.android\build-cache\2fc81af1fa91039de833dbff0f2f214874519ec6\output\AndroidManifest.xml:24:18-84
+activity#com.google.android.gms.tagmanager.TagManagerPreviewActivity
+ADDED from [com.google.android.gms:play-services-tagmanager-api:10.0.0] C:\Users\praka\.android\build-cache\2fc81af1fa91039de833dbff0f2f214874519ec6\output\AndroidManifest.xml:25:9-32:20
+	android:noHistory
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.0.0] C:\Users\praka\.android\build-cache\2fc81af1fa91039de833dbff0f2f214874519ec6\output\AndroidManifest.xml:25:94-118
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.0.0] C:\Users\praka\.android\build-cache\2fc81af1fa91039de833dbff0f2f214874519ec6\output\AndroidManifest.xml:25:19-93
+intent-filter#android.intent.action.VIEW+android.intent.category.BROWSABLE+android.intent.category.DEFAULT
+ADDED from [com.google.android.gms:play-services-tagmanager-api:10.0.0] C:\Users\praka\.android\build-cache\2fc81af1fa91039de833dbff0f2f214874519ec6\output\AndroidManifest.xml:26:13-31:29
+data
+ADDED from [com.google.android.gms:play-services-tagmanager-api:10.0.0] C:\Users\praka\.android\build-cache\2fc81af1fa91039de833dbff0f2f214874519ec6\output\AndroidManifest.xml:27:17-71
+	android:scheme
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.0.0] C:\Users\praka\.android\build-cache\2fc81af1fa91039de833dbff0f2f214874519ec6\output\AndroidManifest.xml:27:23-69
+action#android.intent.action.VIEW
+ADDED from [com.google.android.gms:play-services-tagmanager-api:10.0.0] C:\Users\praka\.android\build-cache\2fc81af1fa91039de833dbff0f2f214874519ec6\output\AndroidManifest.xml:28:17-68
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.0.0] C:\Users\praka\.android\build-cache\2fc81af1fa91039de833dbff0f2f214874519ec6\output\AndroidManifest.xml:28:25-66
+category#android.intent.category.BROWSABLE
+ADDED from [com.google.android.gms:play-services-tagmanager-api:10.0.0] C:\Users\praka\.android\build-cache\2fc81af1fa91039de833dbff0f2f214874519ec6\output\AndroidManifest.xml:30:17-77
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.0.0] C:\Users\praka\.android\build-cache\2fc81af1fa91039de833dbff0f2f214874519ec6\output\AndroidManifest.xml:30:27-75
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:10.0.0] C:\Users\praka\.android\build-cache\3c448277951303badaa069550794b3d001c61b5e\output\AndroidManifest.xml:25:7-26:18
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.0] C:\Users\praka\.android\build-cache\4916065ed2e674a3e1cdc9a2d3e474010cf1ac20\output\AndroidManifest.xml:25:7-26:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:10.0.0] C:\Users\praka\.android\build-cache\3c448277951303badaa069550794b3d001c61b5e\output\AndroidManifest.xml:25:90-112
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:10.0.0] C:\Users\praka\.android\build-cache\3c448277951303badaa069550794b3d001c61b5e\output\AndroidManifest.xml:25:113-137
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.0.0] C:\Users\praka\.android\build-cache\3c448277951303badaa069550794b3d001c61b5e\output\AndroidManifest.xml:25:17-89
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:10.0.0] C:\Users\praka\.android\build-cache\3c448277951303badaa069550794b3d001c61b5e\output\AndroidManifest.xml:27:7-31:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:10.0.0] C:\Users\praka\.android\build-cache\3c448277951303badaa069550794b3d001c61b5e\output\AndroidManifest.xml:27:162-184
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:10.0.0] C:\Users\praka\.android\build-cache\3c448277951303badaa069550794b3d001c61b5e\output\AndroidManifest.xml:27:105-161
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.0.0] C:\Users\praka\.android\build-cache\3c448277951303badaa069550794b3d001c61b5e\output\AndroidManifest.xml:27:17-104
+intent-filter#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:10.0.0] C:\Users\praka\.android\build-cache\3c448277951303badaa069550794b3d001c61b5e\output\AndroidManifest.xml:28:11-30:27
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:10.0.0] C:\Users\praka\.android\build-cache\3c448277951303badaa069550794b3d001c61b5e\output\AndroidManifest.xml:29:15-76
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.0.0] C:\Users\praka\.android\build-cache\3c448277951303badaa069550794b3d001c61b5e\output\AndroidManifest.xml:29:23-74
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:10.0.0] C:\Users\praka\.android\build-cache\3c448277951303badaa069550794b3d001c61b5e\output\AndroidManifest.xml:32:7-137
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.0] C:\Users\praka\.android\build-cache\4916065ed2e674a3e1cdc9a2d3e474010cf1ac20\output\AndroidManifest.xml:27:7-137
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:10.0.0] C:\Users\praka\.android\build-cache\3c448277951303badaa069550794b3d001c61b5e\output\AndroidManifest.xml:32:88-110
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:10.0.0] C:\Users\praka\.android\build-cache\3c448277951303badaa069550794b3d001c61b5e\output\AndroidManifest.xml:32:111-135
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.0.0] C:\Users\praka\.android\build-cache\3c448277951303badaa069550794b3d001c61b5e\output\AndroidManifest.xml:32:16-87
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:10.0.0] C:\Users\praka\.android\build-cache\d36947e0b7239769c8cf93a68849d2bcef629542\output\AndroidManifest.xml:24:5-109
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:10.0.0] C:\Users\praka\.android\build-cache\d36947e0b7239769c8cf93a68849d2bcef629542\output\AndroidManifest.xml:24:72-107
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.0] C:\Users\praka\.android\build-cache\d36947e0b7239769c8cf93a68849d2bcef629542\output\AndroidManifest.xml:24:17-71
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:10.0.0] C:\Users\praka\.android\build-cache\d36947e0b7239769c8cf93a68849d2bcef629542\output\AndroidManifest.xml:26:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.0] C:\Users\praka\.android\build-cache\d36947e0b7239769c8cf93a68849d2bcef629542\output\AndroidManifest.xml:26:22-76
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:10.0.0] C:\Users\praka\.android\build-cache\d36947e0b7239769c8cf93a68849d2bcef629542\output\AndroidManifest.xml:30:9-36:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:10.0.0] C:\Users\praka\.android\build-cache\d36947e0b7239769c8cf93a68849d2bcef629542\output\AndroidManifest.xml:30:85-108
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:10.0.0] C:\Users\praka\.android\build-cache\d36947e0b7239769c8cf93a68849d2bcef629542\output\AndroidManifest.xml:30:109-169
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.0] C:\Users\praka\.android\build-cache\d36947e0b7239769c8cf93a68849d2bcef629542\output\AndroidManifest.xml:30:19-84
+intent-filter#${applicationId}+com.google.android.c2dm.intent.RECEIVE+com.google.android.c2dm.intent.REGISTRATION
+ADDED from [com.google.firebase:firebase-iid:10.0.0] C:\Users\praka\.android\build-cache\d36947e0b7239769c8cf93a68849d2bcef629542\output\AndroidManifest.xml:31:13-35:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:10.0.0] C:\Users\praka\.android\build-cache\d36947e0b7239769c8cf93a68849d2bcef629542\output\AndroidManifest.xml:32:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.0] C:\Users\praka\.android\build-cache\d36947e0b7239769c8cf93a68849d2bcef629542\output\AndroidManifest.xml:32:25-78
+action#com.google.android.c2dm.intent.REGISTRATION
+ADDED from [com.google.firebase:firebase-iid:10.0.0] C:\Users\praka\.android\build-cache\d36947e0b7239769c8cf93a68849d2bcef629542\output\AndroidManifest.xml:33:17-85
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.0] C:\Users\praka\.android\build-cache\d36947e0b7239769c8cf93a68849d2bcef629542\output\AndroidManifest.xml:33:25-83
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:10.0.0] C:\Users\praka\.android\build-cache\d36947e0b7239769c8cf93a68849d2bcef629542\output\AndroidManifest.xml:34:17-60
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.0] C:\Users\praka\.android\build-cache\d36947e0b7239769c8cf93a68849d2bcef629542\output\AndroidManifest.xml:34:27-58
+receiver#com.google.firebase.iid.FirebaseInstanceIdInternalReceiver
+ADDED from [com.google.firebase:firebase-iid:10.0.0] C:\Users\praka\.android\build-cache\d36947e0b7239769c8cf93a68849d2bcef629542\output\AndroidManifest.xml:40:9-119
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:10.0.0] C:\Users\praka\.android\build-cache\d36947e0b7239769c8cf93a68849d2bcef629542\output\AndroidManifest.xml:40:93-117
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.0] C:\Users\praka\.android\build-cache\d36947e0b7239769c8cf93a68849d2bcef629542\output\AndroidManifest.xml:40:19-92
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:10.0.0] C:\Users\praka\.android\build-cache\d36947e0b7239769c8cf93a68849d2bcef629542\output\AndroidManifest.xml:44:9-48:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:10.0.0] C:\Users\praka\.android\build-cache\d36947e0b7239769c8cf93a68849d2bcef629542\output\AndroidManifest.xml:44:83-106
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.0] C:\Users\praka\.android\build-cache\d36947e0b7239769c8cf93a68849d2bcef629542\output\AndroidManifest.xml:44:18-82
+intent-filter#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:10.0.0] C:\Users\praka\.android\build-cache\d36947e0b7239769c8cf93a68849d2bcef629542\output\AndroidManifest.xml:45:13-47:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:10.0.0] C:\Users\praka\.android\build-cache\d36947e0b7239769c8cf93a68849d2bcef629542\output\AndroidManifest.xml:45:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:10.0.0] C:\Users\praka\.android\build-cache\d36947e0b7239769c8cf93a68849d2bcef629542\output\AndroidManifest.xml:46:17-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.0] C:\Users\praka\.android\build-cache\d36947e0b7239769c8cf93a68849d2bcef629542\output\AndroidManifest.xml:46:25-77
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:10.0.1] C:\Users\praka\.android\build-cache\314239a571ad73421d05e9c64a55ccbf98a32cab\output\AndroidManifest.xml:6:9-194
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:10.0.1] C:\Users\praka\.android\build-cache\314239a571ad73421d05e9c64a55ccbf98a32cab\output\AndroidManifest.xml:6:19-78
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:10.0.1] C:\Users\praka\.android\build-cache\314239a571ad73421d05e9c64a55ccbf98a32cab\output\AndroidManifest.xml:6:144-168
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:10.0.1] C:\Users\praka\.android\build-cache\314239a571ad73421d05e9c64a55ccbf98a32cab\output\AndroidManifest.xml:6:169-192
+	android:name
+		ADDED from [com.google.firebase:firebase-common:10.0.1] C:\Users\praka\.android\build-cache\314239a571ad73421d05e9c64a55ccbf98a32cab\output\AndroidManifest.xml:6:79-143
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:10.0.0] C:\Users\praka\.android\build-cache\f0179effd7078b966a3f5e5655057e7b8cd8f3ea\output\AndroidManifest.xml:21:5-77
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:10.0.0] C:\Users\praka\.android\build-cache\f0179effd7078b966a3f5e5655057e7b8cd8f3ea\output\AndroidManifest.xml:21:19-51
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:10.0.0] C:\Users\praka\.android\build-cache\f0179effd7078b966a3f5e5655057e7b8cd8f3ea\output\AndroidManifest.xml:21:52-75
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:10.0.1] C:\Users\praka\.android\build-cache\f6bbc176746ef0331f3b98da8426f68626c358e7\output\AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:10.0.1] C:\Users\praka\.android\build-cache\f6bbc176746ef0331f3b98da8426f68626c358e7\output\AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:10.0.1] C:\Users\praka\.android\build-cache\f6bbc176746ef0331f3b98da8426f68626c358e7\output\AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:10.0.1] C:\Users\praka\.android\build-cache\f6bbc176746ef0331f3b98da8426f68626c358e7\output\AndroidManifest.xml:19:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:10.0.1] C:\Users\praka\.android\build-cache\da1817f4b523e8f47aeb33c409c2686cf3b94137\output\AndroidManifest.xml:20:9-121
+MERGED from [com.google.maps.android:android-maps-utils:0.4.4] C:\Users\praka\.android\build-cache\a6574fca51b38f8be9eae2ac0b16966fa0b2b521\output\AndroidManifest.xml:8:9-10:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:10.0.1] C:\Users\praka\.android\build-cache\da1817f4b523e8f47aeb33c409c2686cf3b94137\output\AndroidManifest.xml:20:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:10.0.1] C:\Users\praka\.android\build-cache\da1817f4b523e8f47aeb33c409c2686cf3b94137\output\AndroidManifest.xml:20:20-65

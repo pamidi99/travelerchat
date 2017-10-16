@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\praka\\Downloads\\HomeWork9-PartA-4\\HomeWork9-PartA\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main_menu.xml",
+        "source": "C:\\Users\\praka\\Downloads\\HomeWork9-PartA-4\\HomeWork9-PartA\\app\\src\\main\\res\\menu\\main_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\praka\\Downloads\\HomeWork9-PartA-4\\HomeWork9-PartA\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_displaytrip.xml",
+        "source": "C:\\Users\\praka\\Downloads\\HomeWork9-PartA-4\\HomeWork9-PartA\\app\\src\\main\\res\\menu\\menu_displaytrip.xml"
+    },
+    {
+        "merged": "C:\\Users\\praka\\Downloads\\HomeWork9-PartA-4\\HomeWork9-PartA\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_people.xml",
+        "source": "C:\\Users\\praka\\Downloads\\HomeWork9-PartA-4\\HomeWork9-PartA\\app\\src\\main\\res\\menu\\menu_people.xml"
+    },
+    {
+        "merged": "C:\\Users\\praka\\Downloads\\HomeWork9-PartA-4\\HomeWork9-PartA\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_chatscreen.xml",
+        "source": "C:\\Users\\praka\\Downloads\\HomeWork9-PartA-4\\HomeWork9-PartA\\app\\src\\main\\res\\menu\\menu_chatscreen.xml"
+    }
+]
