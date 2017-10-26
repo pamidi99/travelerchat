@@ -21,9 +21,7 @@ import com.google.firebase.database.FirebaseDatabase;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * Created by KS Koumudi on 4/20/2017.
- */
+
 
 public class PeopleListViewAdapter extends ArrayAdapter<User> {
 
