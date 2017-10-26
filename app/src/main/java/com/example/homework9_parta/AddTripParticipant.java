@@ -14,9 +14,7 @@ import java.util.ArrayList;
 import java.util.Comparator;
 import java.util.List;
 
-/**
- * Created by KS Koumudi on 4/21/2017.
- */
+
 
 public class AddTripParticipant extends ArrayAdapter<User> {
 
