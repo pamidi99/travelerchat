@@ -24,9 +24,6 @@ import org.ocpsoft.prettytime.PrettyTime;
 import java.util.ArrayList;
 import java.util.Date;
 
-/**
- * Created by KS Koumudi on 4/22/2017.
- */
 
 public class ChatDisplayAdapter extends ArrayAdapter<Message> {
     Context context;
