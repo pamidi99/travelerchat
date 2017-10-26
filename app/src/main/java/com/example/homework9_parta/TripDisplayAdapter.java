@@ -16,9 +16,7 @@ import com.google.firebase.auth.FirebaseUser;
 
 import java.util.ArrayList;
 
-/**
- * Created by KS Koumudi on 4/22/2017.
- */
+
 
 public class TripDisplayAdapter extends ArrayAdapter<Trip> {
     Context context;
