@@ -2,9 +2,6 @@ package com.example.homework9_parta;
 
 import java.util.ArrayList;
 
-/**
- * Created by KS Koumudi on 4/22/2017.
- */
 
 public class Message {
     private int msgType;
